@@ -3,7 +3,7 @@
 # 🔥 SARANG SHUKLA 🔥
 ### *The Code Alchemist Who Transforms Caffeine Into Software*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ARCHITECT;💻+PROBLEM+DESTROYER;🌟+DIGITAL+INNOVATOR;⚡+CODE+WIZARD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ARCHITECT;💻+PROBLEM+SOLVER;🌟+DIGITAL+INNOVATOR" alt="Typing SVG" />
 
 ```ascii
     ╔══════════════════════════════════════╗
@@ -58,8 +58,8 @@ const sarang = {
         "🧠 Learning AI/ML Concepts",
         "💻 Improving Coding Skills"
     ],
-    learning: ["Advanced React", "Machine Learning", "System Design"],
-    hobbies: ["🎮 Gaming", "📚 Learning", "🎵 Music", "🏃‍♂️ Fitness"],
+    learning: ["MERN", "Machine Learning", "GenAI"],
+    hobbies: ["📚 Learning", "🎵 Music", "🏃‍♂️ Fitness"],
     motto: "Learning something new every day! 📈"
 };
 ```
@@ -70,7 +70,7 @@ const sarang = {
 
 <div align="center">
 
-### 💻 **FRONTEND WIZARDRY**
+### 💻 **FRONTEND**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,21 +78,16 @@ const sarang = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 **BACKEND MASTERY**
+### 🔧 **BACKEND**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🤖 **AI/ML SORCERY**
+### 🤖 **AI/ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ☁️ **CLOUD DOMINATION**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🗄️ **DATABASE MASTERY**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -145,7 +140,6 @@ const sarang = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarang0308&repo=Crop_Disease&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35)](https://github.com/Sarang0308/Crop_Disease)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarang0308&repo=Adaptive_Quiz_Generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35)](https://github.com/Sarang0308/Adaptive_Quiz_Generator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarang0308&repo=Chess-Game&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35)](https://github.com/Sarang0308/Chess-Game)
